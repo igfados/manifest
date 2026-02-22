@@ -1,5 +1,2 @@
-# bbrp4tt3mpt
-tidak ingin menulis deskripsi
-
-izinkan saya mebuat link 
-www.github.com/igfados
+# OpenGL Program
+this is the entire source code of my 3d program using linux
